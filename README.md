@@ -1,3 +1,5 @@
+# Name:Prajin S
+# Register Number:23012918
 # Exp 02:Implementation of Half Adder and Full Adder circuit
 
 # Implementation of Half Adder and Full Adder circuit
